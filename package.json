@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-scripts": "1.0.7",
+    "enzyme": "^2.8.2"
   },
   "scripts": {
     "start": "react-scripts start",
